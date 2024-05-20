@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coinhi/static/css/main.64061fe1.css",
+    "main.js": "/coinhi/static/js/main.ee493e94.js",
+    "static/js/453.f9138dea.chunk.js": "/coinhi/static/js/453.f9138dea.chunk.js",
+    "index.html": "/coinhi/index.html",
+    "main.64061fe1.css.map": "/coinhi/static/css/main.64061fe1.css.map",
+    "main.ee493e94.js.map": "/coinhi/static/js/main.ee493e94.js.map",
+    "453.f9138dea.chunk.js.map": "/coinhi/static/js/453.f9138dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64061fe1.css",
+    "static/js/main.ee493e94.js"
+  ]
+}
