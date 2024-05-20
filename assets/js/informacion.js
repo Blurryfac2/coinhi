@@ -20,7 +20,7 @@ window._my_informacion = [
                 tipo: 'Trimestral',
                 temas: [
                     {
-                        nombre: 'Estado de actividades',
+                        nombre: 'Estado de actividadesss',
                         archivo: 'EdoActividades.pdf',
                     },{
                         nombre: 'Estado de situación financiera',
